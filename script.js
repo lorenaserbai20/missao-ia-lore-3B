@@ -1,8 +1,8 @@
-const caixaPricipal = document.queryselector (".caixa-principal"); 
-const caixaPerguntas = document.queryselector (".caixa-perguntas"); 
-const caixaAlternativas = document.queryselector (".caixa-alternativas"); 
-const caixaResultada = document.queryselector (".caixa-resultado"); 
-const textoResultado = document.queryselector (".texto-resultado"); 
+const caixaPricipal = document.querySelector (".caixa-principal"); 
+const caixaPerguntas = document.querySelector (".caixa-perguntas"); 
+const caixaAlternativas = document.querySelector (".caixa-alternativas"); 
+const caixaResultada = document.querySelector (".caixa-resultado"); 
+const textoResultado = document.querySelector (".texto-resultado"); 
 
 const perguntas =[
     {
