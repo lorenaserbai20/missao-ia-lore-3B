@@ -11,5 +11,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
+}
+.caixa-principal{
+    background-color: var(--cor-fundo);
+    width: 90%;
+    max-width: 600px;
     
 }
