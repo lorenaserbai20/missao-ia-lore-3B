@@ -10,15 +10,15 @@ const perguntas = [
 
           {
               texto: "Isso é assustador!",
-              afirmacao:{"No início ficou com medo do que essa tecnologia pode fazer.",
+              afirmacao: [ "No início ficou com medo do que essa tecnologia pode fazer.",
               "Achou assustador pensar na velocidade com que a tecnologia está avançando."
-            }
+              ]
           },
           {
               texto: "Isso é maravilhoso!",
-              afirmacao:{ "Quis saber como usar IA no seu dia a dia.",
+              afirmacao: [ "Quis saber como usar IA no seu dia a dia.",
               "Pensou que IA pode ajudar em tarefas da sua vida."
-            }
+              ]
           }
       ]
   },
